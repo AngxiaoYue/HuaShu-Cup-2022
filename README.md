@@ -3,7 +3,8 @@ A repo for Huashu Cup in 2022, here we teams share links of reading materials, p
 
 $\textcolor{orange}{\star}$ 在各自分区中可以把自己觉得有用的信息罗列，格式为 "简述 + 链接"。
 ## 岳昂枭
-
+1.
+2.
 
 ## 王泽宇
 

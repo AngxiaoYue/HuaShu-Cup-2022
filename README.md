@@ -5,14 +5,16 @@ $\textcolor{orange}{\star}$ 在各自分区中可以把自己觉得有用的信�
 
 $\textcolor{orange}{\star 更新！主攻C题 [8.5]}$ 
 
-$\textcolor{orange}{\star 确定C题 [8.6 10:00]}$ 
+$\textcolor{orange}{\star 确定C题 [8.6 \quad 10:00]}$ 
 
-$\textcolor{orange}{\star 两种思路：1-分别去做单因变量的回归，注意各变量之间存在相关性。 2-用结构方程模型之间建立多自变量多因变量的模型。[8.6 11:00]}$ 
+$\textcolor{orange}{\star 两种思路：1-分别去做单因变量的回归，注意各变量之间存在相关性。 2-用结构方程模型之间建立多自变量多因变量的模型。[8.6 \quad 11:00]}$ 
 
 ## $\textcolor{blue}{C题}$
 ### 岳昂枭
 1.经管之家，上面有许多回归问题的帖子 https://bbs.pinggu.org/
+
 2.线性回归问题的总体步骤 (建立线性回归问题的框架思维) https://zhuanlan.zhihu.com/p/91994336
+
 3.关于多自变量，多因变量问题的经管之家好帖子 https://bbs.pinggu.org/thread-4159901-1-1.html
 
 

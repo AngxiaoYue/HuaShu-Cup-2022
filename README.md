@@ -9,6 +9,8 @@ $\textcolor{orange}{\star 确定C题。[8.6 \quad 10:00]}$
 
 $\textcolor{orange}{\star 两种思路：1-分别去做单因变量的回归，注意各变量之间存在相关性。 2-用结构方程模型之间建立多自变量多因变量的模型。[8.6 \quad 11:00]}$ 
 
+<font color=#008000>我是绿色</font>
+
 ## $\textcolor{blue}{C题}$
 ### 岳昂枭
 1.经管之家，上面有许多回归问题的帖子 https://bbs.pinggu.org/

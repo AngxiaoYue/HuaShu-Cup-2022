@@ -13,6 +13,10 @@ $\textcolor{red}{\star 确定采用偏最小二乘回归，具体已开会讨论
 
 $\textcolor{red}{\star 第一题已解决。[8.6 \quad 12:00]}$ :white_check_mark:
 
+$\textcolor{red}{\star 第二题已解决。[8.6 \quad 15:00]}$ :white_check_mark:
+
+$\textcolor{red}{\star 第三题已解决。[8.6 \quad 17:00]}$ :white_check_mark:
+
 
 ## $\textcolor{blue}{C题}$
 ### 岳昂枭

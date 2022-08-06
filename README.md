@@ -11,7 +11,7 @@ $\textcolor{orange}{\star 两种思路：1-分别去做单因变量的回归，�
 
 $\textcolor{red}{\star 确定采用偏最小二乘回归，具体已开会讨论。[8.5 \quad 18:00]}$ 
 
-$\textcolor{red}{\star 第一题已解决。[8.6 \quad 12:00]}$ 
+$\textcolor{red}{\star 第一题已解决。[8.6 \quad 12:00]}$ :white_check_mark:
 
 
 ## $\textcolor{blue}{C题}$

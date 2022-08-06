@@ -36,5 +36,11 @@ $\textcolor{red}{\star 第一题已解决。[8.6 \quad 12:00]}$ :white_check_mar
 
 https://blog.csdn.net/qq_25990967/article/details/123129559
 
+2.第四题，解决办法:
+
+双目标优化
+
+https://blog.csdn.net/weixin_40531919/article/details/118522239?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165976403016782425188632%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165976403016782425188632&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-5-118522239-null-null.142^v39^pc_rank_34_ctr25,185^v2^control&utm_term=%E5%8F%8C%E7%9B%AE%E6%A0%87%E4%BC%98%E5%8C%96&spm=1018.2226.3001.4187
+
 
 ### 周文睿

@@ -17,6 +17,8 @@ $\textcolor{red}{\star 第二题已解决。[8.6 \quad 15:00]}$ :white_check_mar
 
 $\textcolor{red}{\star 第三题已解决。[8.6 \quad 17:00]}$ :white_check_mark:
 
+$\textcolor{red}{\star 第四题已解决。[8.6 \quad 21:00]}$ :white_check_mark:
+
 
 ## $\textcolor{blue}{C题}$
 ### 岳昂枭

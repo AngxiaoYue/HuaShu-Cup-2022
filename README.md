@@ -3,6 +3,8 @@ A repo for Huashu Cup in 2022, here we teammates share the links of reading mate
 
 $\textcolor{orange}{\star}$ 在各自分区中可以把自己觉得有用的信息罗列，格式为 "简述 + 链接"。[8.4]
 
+$\textcolor{orange}{\star}$ 在各自分区中可以把自己觉得有用的信息罗列，格式为 "简述 + 链接"。[8.4]
+
 $\textcolor{orange}{\star}$ 更新！主攻C题。[8.4]
 
 $\textcolor{orange}{\star}$ 确定C题。[8.5 $\quad$ 10:00]

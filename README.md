@@ -26,7 +26,7 @@ A repo for Huashu Cup in 2022, here we teammates share the links of reading mate
 
 
 ## $\textcolor{blue}{C题}$
-### 岳昂枭
+### yax
 1.经管之家，上面有许多回归问题的帖子 https://bbs.pinggu.org/
 
 2.线性回归问题的总体步骤 (建立线性回归问题的框架思维) https://zhuanlan.zhihu.com/p/91994336
@@ -37,7 +37,7 @@ A repo for Huashu Cup in 2022, here we teammates share the links of reading mate
 
 
 
-### 王泽宇
+### wzy
 1.第一题，解决办法:
 
 第一问:统计绘制6个百分比图，论证正负相关性，解决变化规律问题
@@ -54,4 +54,4 @@ https://blog.csdn.net/qq_25990967/article/details/123129559
 https://blog.csdn.net/mengjizhiyou/article/details/124647597?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165977566316781667884710%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165977566316781667884710&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-124647597-null-null.142^v39^pc_rank_34_ctr25,185^v2^control&utm_term=pymoo&spm=1018.2226.3001.4187
 
 
-### 周文睿
+### zwr

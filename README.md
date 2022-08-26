@@ -7,19 +7,19 @@ A repo for Huashu Cup in 2022, here we teammates share the links of reading mate
 
 更新！主攻C题。[8.4]
 
-确定C题。[8.5 $\quad$ 10:00]
+确定C题。[8.5 10:00]
 
-两种思路：1-分别去做单因变量的回归，注意各变量之间存在相关性。 2-用结构方程模型之间建立多自变量多因变量的模型。[8.5 $\quad$ 11:00] 
+两种思路：1-分别去做单因变量的回归，注意各变量之间存在相关性。 2-用结构方程模型之间建立多自变量多因变量的模型。[8.5  11:00] 
 
-确定采用偏最小二乘回归，具体已开会讨论。[8.5 $\quad$ 18:00]} 
+确定采用偏最小二乘回归，具体已开会讨论。[8.5 18:00]} 
 
-第一题已解决。[8.6 $\quad$ 12:00]} :white_check_mark:
+第一题已解决。[8.6  12:00]} :white_check_mark:
 
-第二题已解决。[8.6 $\quad$ 15:00]} :white_check_mark:
+第二题已解决。[8.6  15:00]} :white_check_mark:
 
-第三题已解决。[8.6 $\quad$ 17:00]} :white_check_mark:
+第三题已解决。[8.6  17:00]} :white_check_mark:
 
-第四题已解决。[8.6 $\quad$ 21:00]} :white_check_mark:
+第四题已解决。[8.6  21:00]} :white_check_mark:
 
 
 ## $\textcolor{blue}{C题}$
